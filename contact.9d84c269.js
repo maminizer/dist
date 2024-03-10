@@ -1,0 +1,1 @@
+const e=document.querySelector("nav.responsiveCenteredLogo");e.addEventListener("click",()=>{e.classList.toggle("menuActive")});
